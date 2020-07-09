@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Jordan Lewis.
+
+![](https://thumbs.gfycat.com/ComplexPresentAustraliankelpie-size_restricted.gif)
 
 <!--
 **jordanlewis/jordanlewis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
