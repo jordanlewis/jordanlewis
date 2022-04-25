@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jordanlewis&show_icons=true&icon_color=800080&text_color=718095&bg_color=00000000&hide_title=true&hide_border=true" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=jordanlewis&show_icons=true&icon_color=800080&text_color=718095&bg_color=00000000&hide_title=true&hide_border=true" /> -->
 
 
 ### Hi, I'm Jordan Lewis.
