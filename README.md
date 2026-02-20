@@ -4,7 +4,7 @@
 ### Hi, I'm Jordan Lewis.
 
 - 🏠 I live in Brooklyn, NY.
-- 🏣 I'm a Director of Engineering at [Cockroach Labs](https://cockroachlabs.com), the creators of [CockroachDB](https://github.com/cockroachdb/cockroach).
+- 🏣 I'm the VP of Engineering [Cockroach Labs](https://cockroachlabs.com), the creators of [CockroachDB](https://github.com/cockroachdb/cockroach).
 - 🎥 I run a weekly database programming stream, LARGE DATA BANK, over on Twitch: https://twitch.tv/large__data__bank. Come hang out every Friday at 3PM ET!
 - 🔗 Check out my website for blog posts and more! https://largedatabank.com
 - 🐦 Follow me on Twitter: https://twitter.com/largedatabank
